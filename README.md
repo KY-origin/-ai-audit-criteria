@@ -4,6 +4,14 @@ As AI becomes the foundation of our society, the definitions of capitalism and h
 
 This project is not merely an audit framework for technical and ethical AI challenges. It is an "intellectual experiment" aimed at redefining the essence of humanity and the future of social systems in an AI-driven era.
 
+## Language Structure
+
+This repository contains both Japanese (original) and English (translated) descriptions to ensure both clarity of the original concept and global accessibility for AI/human developers.
+
+## Authorship & Process
+
+The theories in this repository originate solely from the author's own ideas, formed without reference to external sources. AI is used to help structure these ideas into clear writing, and to research supporting public data where relevant. The claims and reasoning within each theory are the author's own.
+
 ## License and Commercial Use
 
 This framework is published under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.
